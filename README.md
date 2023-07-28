@@ -16,6 +16,7 @@ Weapon Used Desc: This field can provide information about the types of weapons 
 Status Desc: This field indicates the status of the crime report, which can be useful in tracking the progress of investigations.
 
 Data Cleanup:
+
 Cleaned the data in Excel by removing Duplicates and null values. 
 
 Prerequisites for Analysis:
