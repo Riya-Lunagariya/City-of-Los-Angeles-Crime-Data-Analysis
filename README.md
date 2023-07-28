@@ -22,6 +22,7 @@ Prerequisites for Analysis:
 Grouped several data points for fields like Crime type description, Victim age group, Crime Status Investigation etc for better Analysis. Depicted KPI metrics for several data fields. 
 
 Analysis for the Project:
+
 Temporal Analysis: Create time-based visualisations to identify trends and patterns in crimes. Analyse the number of crimes over different months, days of the week, or hours of the day.
 Geospatial Analysis: Use latitude and longitude data to create a map that shows the spatial distribution of crimes across Los Angeles. You can use colour-coding or clustering to highlight high-crime areas.
 Crime Types and Locations: Identify the most common types of crimes and their occurrence in different areas or premises. Create bar charts or heat maps to visualise crime hotspots.
